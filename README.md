@@ -6,12 +6,16 @@
 * [LinkedIn](https://www.linkedin.com/in/jackhayter/)
 * [Twitter](https://twitter.com/jackhayter/)
 
+---
+
 ## Technical Skills
 
 * API development using Ruby on Rails
 * Postgresql and MySQL database engines
 * Linux, Docker, and Kubernetes environments
 * Security, authentication, and subscription billing
+
+---
 
 ## Professional Experience
 
@@ -32,7 +36,7 @@
 * Database design, API development, infrastructure deployment
 * Customer relations, support, sales, and business process design
 
-## aTech Media
+### aTech Media
 **Technical Community Manager & Software Engineer** -
 *May 2012 to April 2014 - Poole, UK*
 
@@ -41,7 +45,7 @@
 * Industry leading support to a global customer base
 * Sales and on-boarding, marketing, and community management
 
-## Microsoft UK
+### Microsoft UK
 **Technical Solutions Professional (Paid Internship)** -
 *July 2010 to August 2011 - Reading, UK*
 
@@ -49,7 +53,7 @@
 * Provision servers, install client software, build demo solutions
 * Assist Enterprise Sales teams to solve problems
 
-## Tesco
+### Tesco
 **Customer Assistant** -
 *May 2006 to May 2010 - Poole, UK*
 
@@ -57,29 +61,39 @@
 * Assisting shoppers with finding goods, and cash services
 * Stock replenishment, delivery handling, in-store bakery
 
+---
+
 ## Education
 
-**Bournemouth University** - *2008 to 2012 - Bournemouth, UK*
+### Bournemouth University
+**Bachelor's degree** -
+*2008 to 2012 - Bournemouth, UK*
 
-* Bachelor's degree - BSc Computing (Hons) 2:1
+* BSc Computing (Hons) 2:1
 * Included 14 month internship at Microsoft
 
-**Poole Grammar School** - *2006 to 2008 - Poole, UK*
+### Poole Grammar School
+**AS & A2 (A-levels)** -
+*2006 to 2008 - Poole, UK*
 
-* A-level qualifications: Computing, Electronics, Business
-* AS-level qualification: Mathematics
+* A2-level: Computing, Electronics, Business
+* AS-level: Mathematics
+
+---
 
 ## Voluntary Experience
 
-**Vancouver Giants** - *3 months - Vancouver, BC*
+### Vancouver Giants
+**Ice cleaning crew**
+*3 months - Vancouver, BC*
 
-* Ice cleaning crew
 * Local junior ice hockey team
 * Cleaning the ice surface in TV timeouts
 
-**Victoria Education Centre** - *12 months - Poole, UK*
+### Victoria Education Centre
+**Recreation Assistant** -
+*12 months - Poole, UK*
 
-* Recreation Assistant
 * Local school for children with severe physical disabilities
 * Helped kids enjoy team sports such as wheelchair basketball
 
